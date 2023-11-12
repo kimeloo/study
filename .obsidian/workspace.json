@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md",
+                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md",
+                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md",
+                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md"
+                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "025a11d682619378",
   "lastOpenFiles": [
-    "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md",
+    "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+    "C/나도코딩의 C언어 입문/01 hello.c",
     "Obsidian/기본 기능.md",
     "C/나도코딩의 C언어 입문/Chapter 01",
     "C/나도코딩의 C언어 입문/Chapter 1",
@@ -174,7 +175,6 @@
     "C/나도코딩의 C언어 입문/Source(Win)/selfcheck/ch7.selfcheck.c",
     "C/나도코딩의 C언어 입문/Source(Win)/selfcheck/ch6.selfcheck.c",
     "C/나도코딩의 C언어 입문/Source(Win)/selfcheck/ch5.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source(Win)/selfcheck/ch4_selfcheck.c",
     "C/나도코딩의 C언어 입문/Source(Win)/README.md",
     "C/나도코딩의 C언어 입문/Source/README.md",
     "C/나도코딩의 C언어 입문/007139/README.md",

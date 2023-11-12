@@ -11,8 +11,12 @@
             "id": "1480cbbfd4d2d36a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test table.md"
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md"
               }
             }
           }
@@ -141,9 +147,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31fba89103000004",
+  "active": "1480cbbfd4d2d36a",
   "lastOpenFiles": [
-    "test table.md",
-    "C"
+    "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch9.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch8.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch7.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch6.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch5.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch4_selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch3_selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch2_selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/selfcheck/ch10.selfcheck.c",
+    "C/나도코딩의 C언어 입문/Source/ch9/struct.c",
+    "C/나도코딩의 C언어 입문/Source/README.md",
+    "C/나도코딩의 C언어 입문/007139/README.md",
+    "test table.md"
   ]
 }

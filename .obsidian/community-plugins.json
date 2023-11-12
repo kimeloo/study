@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-outliner",
   "table-editor-obsidian",
-  "execute-code"
+  "execute-code",
+  "cm-editor-syntax-highlight-obsidian"
 ]

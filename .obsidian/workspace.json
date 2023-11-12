@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "10c1b0794cb6f7f2",
+        "type": "tabs",
+        "children": [
           {
             "id": "0af4b843ec1c97ee",
             "type": "leaf",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/기본 기능.md",
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/기본 기능.md",
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/기본 기능.md"
+                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md"
               }
             }
           }
@@ -160,20 +165,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0af4b843ec1c97ee",
+  "active": "1480cbbfd4d2d36a",
   "lastOpenFiles": [
-    "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_7_2_프로젝트_고양이수집하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_7_1_프로젝트_무작위로고양이뽑기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_6_typedef.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_5_구조체안의구조체사용하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_4_구조체포인터사용하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_3_구조체배열만들기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_2_구조체사용하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/9_1_구조체정의하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/8_5_3_게임하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/8_5_2_프로젝트_문제출력하기.c",
+    "C/나도코딩의 C언어 입문/Source(Mac)/8_5_1_프로젝트_카드섞기.c",
     "Obsidian/기본 기능.md",
-    "Obsidian/무제 폴더",
-    "Obsidian",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch9.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch8.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch7.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch6.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch5.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch4_selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch3_selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch2_selfcheck.c",
+    "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
     "C/나도코딩의 C언어 입문/Source/README.md",
     "C/나도코딩의 C언어 입문/007139/README.md",
     "test table.md"

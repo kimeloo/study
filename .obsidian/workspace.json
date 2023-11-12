@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+                "file": "C/나도코딩의 C언어 입문/02.1 C 기본 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+                "file": "C/나도코딩의 C언어 입문/02.1 C 기본 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+                "file": "C/나도코딩의 C언어 입문/02.1 C 기본 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md"
+                "file": "C/나도코딩의 C언어 입문/02.1 C 기본 구조.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "025a11d682619378",
   "lastOpenFiles": [
+    "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+    "C/나도코딩의 C언어 입문/Chapter 02",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.c",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/Relocations/aarch64/01 hello.yml",
@@ -171,10 +173,7 @@
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/DWARF",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Info.plist",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM",
-    "C/나도코딩의 C언어 입문/02 변수와 상수, 입력과 출력.md",
-    "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+    "C/나도코딩의 C언어 입문/02.1 C 기본 구조.md",
     "Obsidian/기본 기능.md",
     "C/나도코딩의 C언어 입문/Source(Win)/README.md",
     "C/나도코딩의 C언어 입문/Source/README.md",

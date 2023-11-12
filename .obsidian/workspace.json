@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c962261325e21433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/나도코딩의 C언어 입문/02.1 C 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,12 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90992efd16fe4d3f",
+  "active": "c962261325e21433",
   "lastOpenFiles": [
-    "Obsidian/기본 기능.md",
-    "02.1 C 기본.md",
+    "자료형.md",
     "C/나도코딩의 C언어 입문/02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
+    "Obsidian/기본 기능.md",
+    "C/자료형.md",
+    "02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/Chapter 02",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello.c",
     "C/나도코딩의 C언어 입문/Chapter 01/01 hello",

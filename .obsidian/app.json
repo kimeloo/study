@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "spellcheck": false,
+  "trashOption": "local"
 }

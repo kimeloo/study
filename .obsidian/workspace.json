@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/콜아웃.md",
+                "file": "Obsidian/기본 기능.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/콜아웃.md",
+                "file": "Obsidian/기본 기능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/콜아웃.md",
+                "file": "Obsidian/기본 기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/콜아웃.md"
+                "file": "Obsidian/기본 기능.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "0af4b843ec1c97ee",
   "lastOpenFiles": [
     "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
-    "Obsidian/콜아웃.md",
+    "Obsidian/기본 기능.md",
     "Obsidian/무제 폴더",
     "Obsidian",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch9.selfcheck.c",

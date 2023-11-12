@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0af4b843ec1c97ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/콜아웃.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+                "file": "Obsidian/콜아웃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+                "file": "Obsidian/콜아웃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md"
+                "file": "Obsidian/콜아웃.md"
               }
             }
           }
@@ -147,9 +160,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1480cbbfd4d2d36a",
+  "active": "0af4b843ec1c97ee",
   "lastOpenFiles": [
     "C/나도코딩의 C언어 입문/1.1 개발 환경 설정.md",
+    "Obsidian/콜아웃.md",
+    "Obsidian/무제 폴더",
+    "Obsidian",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch9.selfcheck.c",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch8.selfcheck.c",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch7.selfcheck.c",
@@ -158,8 +174,6 @@
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch4_selfcheck.c",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch3_selfcheck.c",
     "C/나도코딩의 C언어 입문/Source/selfcheck/ch2_selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/selfcheck/ch10.selfcheck.c",
-    "C/나도코딩의 C언어 입문/Source/ch9/struct.c",
     "C/나도코딩의 C언어 입문/Source/README.md",
     "C/나도코딩의 C언어 입문/007139/README.md",
     "test table.md"

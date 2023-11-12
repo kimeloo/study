@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/무제 파일.md",
+                "file": "C/나도코딩의 C언어 입문/02.3 scanf().md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/무제 파일.md",
+                "file": "C/나도코딩의 C언어 입문/02.3 scanf().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/무제 파일.md",
+                "file": "C/나도코딩의 C언어 입문/02.3 scanf().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/무제 파일.md"
+                "file": "C/나도코딩의 C언어 입문/02.3 scanf().md"
               }
             }
           }
@@ -198,25 +198,24 @@
   },
   "active": "13e0ec0cb5d1db08",
   "lastOpenFiles": [
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.c",
-    "C/나도코딩의 C언어 입문/Chapter 02/printf.c",
     "C/나도코딩의 C언어 입문/02.2 printf().md",
-    "C/나도코딩의 C언어 입문/무제 파일.md",
+    "C/나도코딩의 C언어 입문/02.3 scanf().md",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64/scsanf.yml",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/DWARF/scsanf",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/DWARF",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Info.plist",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM",
+    "C/나도코딩의 C언어 입문/Chapter 02/scsanf",
     "C/나도코딩의 C언어 입문/02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "자료형.md",
     "Obsidian/기본 기능.md",
     "C/자료형.md",
     "02.1 C 기본.md",
-    "C/나도코딩의 C언어 입문/Chapter 02",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.c",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/Relocations/aarch64/01 hello.yml",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/Relocations/aarch64",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/DWARF/01 hello",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/Relocations",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources/DWARF",
-    "C/나도코딩의 C언어 입문/Chapter 01/01 hello.dSYM/Contents/Resources",
     "C/나도코딩의 C언어 입문/Source(Win)/README.md",
     "C/나도코딩의 C언어 입문/Source/README.md",
     "C/나도코딩의 C언어 입문/007139/README.md",

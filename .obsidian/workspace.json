@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "667e2cef06eb48c0",
+        "id": "88414898711434c2",
         "type": "tabs",
         "children": [
           {
-            "id": "069b066aa2bb95ce",
+            "id": "191ec3d85b68779e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/나도코딩의 C언어 입문/02.2 printf().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02.2 printf().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/나도코딩의 C언어 입문/02.2 printf().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C/나도코딩의 C언어 입문/02.2 printf().md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,10 +140,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "069b066aa2bb95ce",
+  "active": "191ec3d85b68779e",
   "lastOpenFiles": [
-    "C/나도코딩의 C언어 입문/02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/02.2 printf().md",
+    "Linux",
+    "C/나도코딩의 C언어 입문/02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/02.3 scanf().md",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64/scsanf.yml",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64",
@@ -162,7 +155,6 @@
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Info.plist",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM",
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "자료형.md",
     "Obsidian/기본 기능.md",

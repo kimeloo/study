@@ -1,5 +1,8 @@
 {
   "attachmentFolderPath": "./Attachments",
   "spellcheck": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": false
 }

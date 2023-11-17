@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f12ee48d46f1f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/정리할것.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/make 유틸리티.md",
+                "file": "Python/정리할것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/make 유틸리티.md",
+                "file": "Python/정리할것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/make 유틸리티.md"
+                "file": "Python/정리할것.md"
               }
             }
           }
@@ -157,10 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc5a24bf1e685ba7",
+  "active": "8f12ee48d46f1f30",
   "lastOpenFiles": [
-    "Linux/Shell 주요 명령어.md",
     "Linux/make 유틸리티.md",
+    "Python/정리할것.md",
+    "무제 폴더",
+    "Python",
+    "Linux/Shell 주요 명령어.md",
     "2강.md",
     "무제 파일 1.md",
     "무제 파일.md",
@@ -175,8 +190,6 @@
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/DWARF",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Info.plist",
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents",
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "자료형.md",
     "Obsidian/기본 기능.md",

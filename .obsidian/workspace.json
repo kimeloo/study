@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "cc5a24bf1e685ba7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "191ec3d85b68779e",
+  "active": "cc5a24bf1e685ba7",
   "lastOpenFiles": [
     "Linux/Shell 주요 명령어.md",
     "Linux/make 유틸리티.md",

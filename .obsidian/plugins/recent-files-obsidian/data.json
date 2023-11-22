@@ -5,6 +5,10 @@
       "path": "Python/정리할것.md"
     },
     {
+      "basename": "기본 기능",
+      "path": "Obsidian/기본 기능.md"
+    },
+    {
       "basename": "make 유틸리티",
       "path": "Linux/make 유틸리티.md"
     }

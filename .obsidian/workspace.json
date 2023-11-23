@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/make 유틸리티.md",
+                "file": "Python/정리할것.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/make 유틸리티.md",
+                "file": "Python/정리할것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/make 유틸리티.md",
+                "file": "Python/정리할것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/make 유틸리티.md"
+                "file": "Python/정리할것.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "191ec3d85b68779e",
   "lastOpenFiles": [
+    "Linux/make 유틸리티.md",
     "Python/정리할것.md",
     "Obsidian/기본 기능.md",
-    "Linux/make 유틸리티.md",
     "무제 폴더",
     "Python",
     "Linux/Shell 주요 명령어.md",

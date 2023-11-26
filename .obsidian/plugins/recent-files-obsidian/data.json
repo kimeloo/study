@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Error",
-      "path": "용어/Error.md"
+      "basename": "MicroService Architecture",
+      "path": "용어/Architecture/MicroService Architecture.md"
+    },
+    {
+      "basename": "OOM",
+      "path": "용어/Error/OOM.md"
     },
     {
       "basename": "정리할것",

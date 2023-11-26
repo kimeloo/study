@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@템플릿/에러 설명.md",
+                "file": "@템플릿/용어 설명.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@템플릿/에러 설명.md",
+                "file": "@템플릿/용어 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@템플릿/에러 설명.md",
+                "file": "@템플릿/용어 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@템플릿/에러 설명.md"
+                "file": "@템플릿/용어 설명.md"
               }
             }
           }
@@ -171,9 +171,9 @@
   },
   "active": "7a87af94ef1f7833",
   "lastOpenFiles": [
-    "기본/Error/OOM.md",
-    "@템플릿/용어 설명.md",
     "@템플릿/에러 설명.md",
+    "@템플릿/용어 설명.md",
+    "기본/Error/OOM.md",
     "기본/Architecture/MicroService Architecture.md",
     "@템플릿",
     "기본/Architecture",

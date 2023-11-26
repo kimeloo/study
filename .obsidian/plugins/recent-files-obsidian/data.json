@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "용어 설명",
+      "path": "@템플릿/용어 설명.md"
+    },
+    {
       "basename": "에러 설명",
       "path": "@템플릿/에러 설명.md"
     },
     {
       "basename": "OOM",
       "path": "기본/Error/OOM.md"
-    },
-    {
-      "basename": "용어 설명",
-      "path": "@템플릿/용어 설명.md"
     },
     {
       "basename": "MicroService Architecture",

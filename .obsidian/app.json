@@ -4,5 +4,7 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false
 }

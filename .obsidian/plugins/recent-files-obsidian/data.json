@@ -9,6 +9,14 @@
       "path": "@템플릿/에러 설명.md"
     },
     {
+      "basename": "Shell 주요 명령어",
+      "path": "Linux/Shell 주요 명령어.md"
+    },
+    {
+      "basename": "make 유틸리티",
+      "path": "Linux/make 유틸리티.md"
+    },
+    {
       "basename": "OOM",
       "path": "기본/Error/OOM.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "정리할것",
       "path": "Python/정리할것.md"
-    },
-    {
-      "basename": "make 유틸리티",
-      "path": "Linux/make 유틸리티.md"
     },
     {
       "basename": "기본 기능",

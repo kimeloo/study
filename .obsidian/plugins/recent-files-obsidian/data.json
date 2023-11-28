@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "정리할것",
+      "path": "Python/정리할것.md"
+    },
+    {
       "basename": "용어 설명",
       "path": "@템플릿/용어 설명.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "MicroService Architecture",
       "path": "기본/Architecture/MicroService Architecture.md"
-    },
-    {
-      "basename": "정리할것",
-      "path": "Python/정리할것.md"
     },
     {
       "basename": "기본 기능",

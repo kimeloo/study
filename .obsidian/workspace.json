@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/정리할것.md",
+                "file": "DataBase/정규화/제1정규형.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "cc5a24bf1e685ba7",
+            "id": "7b3e4d41c0d0be62",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/정리할것.md",
+                "file": "DataBase/정규화/제1정규형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/정리할것.md",
+                "file": "DataBase/정규화/제1정규형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/정리할것.md"
+                "file": "DataBase/정규화/제1정규형.md"
               }
             }
           }
@@ -158,6 +158,10 @@
   },
   "active": "db7378ad7ff9776e",
   "lastOpenFiles": [
+    "DataBase/정규화",
+    "Python/정리할것.md",
+    "DataBase/정규화/제1정규형.md",
+    "DataBase",
     "@템플릿/용어 설명.md",
     "@템플릿/에러 설명.md",
     "Linux/Shell 주요 명령어.md",
@@ -168,7 +172,6 @@
     "기본/Architecture",
     "기본/Error",
     "기본",
-    "Python/정리할것.md",
     "Obsidian/기본 기능.md",
     "Python",
     "2강.md",
@@ -180,7 +183,6 @@
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64/scsanf.yml",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64",
     "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/DWARF/scsanf",
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "자료형.md",
     "C/자료형.md",

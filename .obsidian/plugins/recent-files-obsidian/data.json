@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "제1정규형",
-      "path": "DataBase/정규화/제1정규형.md"
+      "basename": "{작성중}제1정규형",
+      "path": "DataBase/정규화/{작성중}제1정규형.md"
     },
     {
-      "basename": "OOM",
-      "path": "기본/Error/OOM.md"
+      "basename": "{작성중}정규화란?",
+      "path": "DataBase/정규화/{작성중}정규화란?.md"
     },
     {
-      "basename": "MicroService Architecture",
-      "path": "기본/Architecture/MicroService Architecture.md"
+      "basename": "{작성중}OOM",
+      "path": "기본/Error/{작성중}OOM.md"
+    },
+    {
+      "basename": "{작성중}MicroService Architecture",
+      "path": "기본/Architecture/{작성중}MicroService Architecture.md"
     },
     {
       "basename": "용어 설명",

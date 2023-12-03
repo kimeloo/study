@@ -3,3 +3,5 @@
 - MicroService Architecture의 줄임말
 ### 비교 개념
 - [[Monolithic Architecture]]
+### 참고자료
+- 

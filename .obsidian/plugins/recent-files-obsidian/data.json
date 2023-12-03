@@ -5,8 +5,8 @@
       "path": "DataBase/정규화/{작성중}제1정규형.md"
     },
     {
-      "basename": "{작성중}정규화란?",
-      "path": "DataBase/정규화/{작성중}정규화란?.md"
+      "basename": "{작성중}정규화",
+      "path": "DataBase/정규화/{작성중}정규화.md"
     },
     {
       "basename": "{작성중}OOM",
@@ -17,12 +17,12 @@
       "path": "기본/Architecture/{작성중}MicroService Architecture.md"
     },
     {
-      "basename": "용어 설명",
-      "path": "@템플릿/용어 설명.md"
-    },
-    {
       "basename": "에러 설명",
       "path": "@템플릿/에러 설명.md"
+    },
+    {
+      "basename": "용어 설명",
+      "path": "@템플릿/용어 설명.md"
     },
     {
       "basename": "정리할것",

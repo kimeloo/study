@@ -1,6 +1,6 @@
 .DS_Store
-.trash
-.vscode
-.obsidian
+.trash/
+.vscode/
+.obsidian/
 @템플릿
 {작성중}*

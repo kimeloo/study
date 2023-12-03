@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/정규화/{작성중}함수 종속성.md",
+                "file": "DataBase/정규화/{작성중}제2정규형.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/정규화/{작성중}함수 종속성.md",
+                "file": "DataBase/정규화/{작성중}제2정규형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/정규화/{작성중}함수 종속성.md",
+                "file": "DataBase/정규화/{작성중}제2정규형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/정규화/{작성중}함수 종속성.md"
+                "file": "DataBase/정규화/{작성중}제2정규형.md"
               }
             }
           }
@@ -184,8 +183,8 @@
   },
   "active": "5fde78de91a5b42c",
   "lastOpenFiles": [
-    "DataBase/정규화/{작성중}제2정규형.md",
     "DataBase/정규화/{작성중}함수 종속성.md",
+    "DataBase/정규화/{작성중}제2정규형.md",
     "DataBase/종속성",
     "DataBase/정규화/{작성중}제1정규형.md",
     "DataBase/정규화/{작성중}정규화.md",

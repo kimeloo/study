@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Hidden/Computer Vision/무제 파일.md",
+                "file": "@Hidden/Computer Vision/이미지에 그림 그리기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Hidden/Computer Vision/OpenCV.md",
+                "file": "@Hidden/Computer Vision/이미지에 그림 그리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Hidden/Computer Vision/OpenCV.md",
+                "file": "@Hidden/Computer Vision/이미지에 그림 그리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Hidden/Computer Vision/OpenCV.md"
+                "file": "@Hidden/Computer Vision/이미지에 그림 그리기.md"
               }
             }
           }
@@ -168,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0d5a02c6e3dd76f",
+  "active": "9544eb19afef5734",
   "lastOpenFiles": [
-    "@Hidden/Computer Vision/무제 파일.md",
     "@Hidden/Computer Vision/OpenCV.md",
+    "@Hidden/Computer Vision/이미지에 그림 그리기.md",
     "@Hidden",
     "@Hidden/DataBase/정규화/{작성중}제2정규형.md",
     "@Hidden/DataBase/정규화/{작성중}제1정규형.md",

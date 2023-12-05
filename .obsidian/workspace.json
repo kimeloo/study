@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a68297aa4ef44123",
+        "id": "3e498b65e9d7dbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ba95546c237513",
+            "id": "e1eaa1aa1e330cdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/정규화/{작성중}제1정규형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f58ace8390e28bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/정규화/{작성중}제2정규형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fde78de91a5b42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/정규화/{작성중}제2정규형.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/정규화/{작성중}제2정규형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/정규화/{작성중}제2정규형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataBase/정규화/{작성중}제2정규형.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,13 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31fba89103000004",
+  "active": "e1eaa1aa1e330cdc",
   "lastOpenFiles": [
+    "DataBase/정규화/{작성중}제2정규형.md",
+    "DataBase/정규화/{작성중}제1정규형.md",
+    "Computer Vision",
     "Git, Github",
     "DataBase/정규화/{작성중}함수 종속성.md",
-    "DataBase/정규화/{작성중}제2정규형.md",
     "DataBase/종속성",
-    "DataBase/정규화/{작성중}제1정규형.md",
     "DataBase/정규화/{작성중}정규화.md",
     "기본/Error/{작성중}OOM.md",
     "기본/Architecture/{작성중}MicroService Architecture.md",
@@ -207,10 +175,8 @@
     "2강.md",
     "무제 파일 1.md",
     "C/나도코딩의 C언어 입문/02.2 printf().md",
-    "Linux",
     "C/나도코딩의 C언어 입문/02.1 C 기본.md",
     "C/나도코딩의 C언어 입문/02.3 scanf().md",
-    "C/나도코딩의 C언어 입문/Chapter 02/scsanf.dSYM/Contents/Resources/Relocations/aarch64/scsanf.yml",
     "C/나도코딩의 C언어 입문/01 개발 환경 설정 (hello.c).md",
     "자료형.md",
     "C/자료형.md",

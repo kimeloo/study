@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "OpenCV",
+      "path": "@Hidden/Computer Vision/OpenCV.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "@Hidden/Computer Vision/무제 파일.md"
+    },
+    {
       "basename": "{작성중}제2정규형",
-      "path": "DataBase/정규화/{작성중}제2정규형.md"
+      "path": "@Hidden/DataBase/정규화/{작성중}제2정규형.md"
     },
     {
       "basename": "{작성중}제1정규형",
-      "path": "DataBase/정규화/{작성중}제1정규형.md"
+      "path": "@Hidden/DataBase/정규화/{작성중}제1정규형.md"
     },
     {
       "basename": "{작성중}함수 종속성",
-      "path": "DataBase/정규화/{작성중}함수 종속성.md"
+      "path": "@Hidden/DataBase/정규화/{작성중}함수 종속성.md"
     },
     {
       "basename": "{작성중}정규화",
-      "path": "DataBase/정규화/{작성중}정규화.md"
+      "path": "@Hidden/DataBase/정규화/{작성중}정규화.md"
     },
     {
       "basename": "{작성중}OOM",

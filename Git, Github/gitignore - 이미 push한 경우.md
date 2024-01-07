@@ -2,7 +2,7 @@
 ### 설명
 - 이미 원격저장소에 push한 파일에 .gitignore을 적용하여 github에서 지우고 싶을 때 사용한다.
 ### 관련 개념
-- [[gitignore]]
+- [[gitignore
 ### 발생 원인
 - git으로 추적하지 않을 파일을 .gitignore에 추가했으나, 이미 원격저장소에 push하였다.
 ### 해결 방법

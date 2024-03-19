@@ -26,23 +26,6 @@
 			- 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - https://www.youtube.com/watch?v=tpow70KGTYY
 - 24:30부터 설명
 - 27:30부터 예시
